@@ -1,0 +1,14 @@
+# 运行时输出 / 本地验证产物
+result*.json
+result*.csv
+out_*.txt
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+.vscode/
